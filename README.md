@@ -1,4 +1,4 @@
-👋 Hi, I’m @ApexAryan
+👋 Hi, I’m Aryan Chaubey
 👀 I’m interested in tech innovation, software development, and solving complex problems through coding.
 🌱 I’m currently learning advanced C++ concepts and Android app development.
 💞️ I’m looking to collaborate on open-source projects related to data engineering, IoT, and telemedicine.
