@@ -6,7 +6,7 @@ I'm passionate about solving complex problems through code. I spend my time engi
 
 **The Highlights:**
 - 📈 **Predictive Analytics:** Built *KalshiEdge* (using Kelly Criterion & ensemble classifiers) and extensive NBA/MLB forecasting models.
-- 🎮 **Game Dev:** Developing *NNW: Content King* and utilizing Unreal Engine for modular map environments.
+- ⚙️ **Hardware & IoT:** Built an Arduino-powered real-time vital sign tracker for telemedicine.
 - 🎓 **Academics & Work:** Data Engineering @ Texas A&M | Data Analyst Intern @ LTIMindtree.
 
 **Get in touch:**
