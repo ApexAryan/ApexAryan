@@ -1,12 +1,13 @@
-👋 Hi, I’m Aryan Chaubey
-👀 I’m interested in tech innovation, software development, and solving complex problems through coding.
-🌱 I’m currently learning advanced C++ concepts and Android app development.
-💞️ I’m looking to collaborate on open-source projects related to data engineering, IoT, and telemedicine.
-📫 How to reach me: aryanchaubey2004@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I’ve built a device that tracks vital signs in real time for telemedicine using Arduino sensors!
+# Hi there, I'm Aryan! 👋
 
-<!---
-ApexAryan/ApexAryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Data Engineer | Predictive Modeler | Software Developer**
+
+I'm passionate about solving complex problems through code. I spend my time engineering AI-driven alpha engines, scraping sports metrics for forecasting pipelines, and building out 3D simulation games. 
+
+**The Highlights:**
+- 📈 **Predictive Analytics:** Built *KalshiEdge* (using Kelly Criterion & ensemble classifiers) and extensive NBA/MLB forecasting models.
+- 🎮 **Game Dev:** Developing *NNW: Content King* and utilizing Unreal Engine for modular map environments.
+- 🎓 **Academics & Work:** Data Engineering @ Texas A&M | Data Analyst Intern @ LTIMindtree.
+
+**Get in touch:**
+📫 [aryanchaubey2004@gmail.com](mailto:aryanchaubey2004@gmail.com) | 😄 He/Him
